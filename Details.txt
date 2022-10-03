@@ -1,3 +1,5 @@
 Tosca Multi repository configuration-
 Installed :
 SQL Management Studio 
+
+ExplicitName = True -> Implies the control can be renamed to row number e.g #1, #last
